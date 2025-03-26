@@ -53,7 +53,7 @@ async def start(client, message):
             ],[
                 InlineKeyboardButton('SUPPORT GROUP', url='https://t.me/+iTdaDXPgqGhhNWQ1'),
                 InlineKeyboardButton('MOVIE GROUP', url='https://t.me/+hItR7_lFaKxmMjU1')
-            ],,[
+            ],[
                 InlineKeyboardButton('ᴊᴏɪɴ ᴜᴘᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ', url='https://t.me/rajmoviesword')
             ]]
         else:
