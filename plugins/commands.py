@@ -50,11 +50,6 @@ async def start(client, message):
         if PREMIUM_AND_REFERAL_MODE == False:
             buttons = [[
                 InlineKeyboardButton('⤬ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ⤬', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
-            ],[
-                InlineKeyboardButton('SUPPORT GROUP', url='https://t.me/+iTdaDXPgqGhhNWQ1'),
-                InlineKeyboardButton('MOVIE GROUP', url='https://t.me/+hItR7_lFaKxmMjU1')
-            ],[
-                InlineKeyboardButton('ᴊᴏɪɴ ᴜᴘᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ', url='https://t.me/rajmoviesword')
             ]]
         else:
             buttons = [[
