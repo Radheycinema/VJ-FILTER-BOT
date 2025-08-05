@@ -88,7 +88,7 @@ PUBLIC_FILE_CHANNEL = environ.get('PUBLIC_FILE_CHANNEL', '') # Public Channel Us
 
 
 # Links
-GRP_LNK = environ.get('GRP_LNK', 'https://t.me/+ypN2t5h6j_plMGI9')
+GRP_LNK = environ.get('GRP_LNK', 'https://t.me/+cRMvIVhsf4E0OTk9')
 CHNL_LNK = environ.get('CHNL_LNK', 'https://t.me/rajmoviesword')
 SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'https://t.me/+qZPlJvZXj3k5ZGVl') # Support Chat Link Without https:// or @
 OWNER_LNK = environ.get('OWNER_LNK', 'https://t.me/RJRAAJ05')
@@ -196,3 +196,4 @@ else:
 # Don't Remove Credit @VJ_Botz
 # Subscribe YouTube Channel For Amazing Bot @Tech_VJ
 # Ask Doubt on telegram @KingVJ01
+
