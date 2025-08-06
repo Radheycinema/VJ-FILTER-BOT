@@ -246,7 +246,12 @@ Nᴀᴍᴇ - {}"""
 
     CAPTION = """<b>📂 ғɪʟᴇɴᴀᴍᴇ : {file_name}
 
-<b>⚙️ sɪᴢᴇ : {file_size}</b>""" 
+<b>⚙️ sɪᴢᴇ : {file_size}
+❤️‍🔥𝖩𝗈𝗂𝗇
+ Update channel ➥ 「 @RajMoviesWord 」
+
+Request group ➥
+「 https://t.me/+uGvhDFbFTGtlYTdl 」</b>""" 
 
     IMDB_TEMPLATE_TXT = """
 <b>Query: {qurey}
@@ -752,3 +757,4 @@ Example:- /set_caption 📕 File Name: {filename}
 
 
     
+
